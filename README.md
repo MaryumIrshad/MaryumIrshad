@@ -1,16 +1,20 @@
-## Hi there 👋
+# Maryum Irshad
 
-<!--
-**MaryumIrshad/MaryumIrshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD Candidate in Computational Biochemistry at the University of Cincinnati.
 
-Here are some ideas to get you started:
+## Research Interests
+- Protein allostery
+- Molecular dynamics simulations
+- AAA+ proteins (katanin, ClpB)
+- Machine learning for biomolecular systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Projects
+### FlexENN
+Contributor to the FlexENN machine learning framework developed in the Dima Lab.
+Repository: https://github.com/DimaUClab/FlexENN
+
+### Protein-Ligand Affinity ML
+Machine learning models for predicting protein-ligand binding affinity.
+
+### Protein Property Calculator
+Web-based protein analysis and visualization tools.
